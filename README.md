@@ -59,7 +59,9 @@ Explanation: The longest chain is [1,2] -> [3,4]
 ## 👨‍💻 Author Info
 
 > ✍️ Developed with ❤️ by **Ridham Garg**
+> 
 > 🎓 **Thapar Institute of Engineering and Technology**
+> 
 > 📧 Email: [Ridhamgarg000@gmail.com](mailto:Ridhamgarg000@gmail.com)
 
 ---
